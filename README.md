@@ -5,4 +5,4 @@
 - Cynosphere - Original developer
 - Sky.Bit, Pineapple - Fix developers
 ## Notes
-- iOS support is limited
+- iOS support is NONEXISTENT YOU SHALL BE BANISHED TO THY SHADOW REALM IF YOU DO
