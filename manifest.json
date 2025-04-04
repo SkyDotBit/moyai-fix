@@ -1,1 +1,23 @@
-{"name":"🗿","description":"🗿","authors":[{"name":"Cynosphere","id":"150745989836308480"},{"name":"PineGoo","id":"1045147953519669259"},{"name":"Sky.Bit","id":"1154179709341552701"}],"main":"index.js","vendetta":{"icon":"ic_speaker"},"hash":"2aabe7feaf7a0d659550c6b2c4950d6d2909976341ff3cc29ac3671f59c579aa"}
+{
+  "name": "🗿",
+  "description": "🗿",
+  "authors": [
+    {
+      "name": "Cynosphere",
+      "id": "150745989836308480"
+    },
+
+    {
+      "name": "PineGoo",
+      "id": "1045147953519669259"
+    },    
+    {
+      "name": "Sky.Bit",
+      "id": "1154179709341552701"
+    }
+  ],
+  "main": "src/index.ts",
+  "vendetta": {
+    "icon": "ic_speaker"
+  }
+}
