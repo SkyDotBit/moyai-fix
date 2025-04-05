@@ -9,3 +9,5 @@
 ## Notes
 - iOS does not support .ogg or .webm files.
 - This is not finished yet!! Please do not install until all bugs are removed and all features are added! Ty! :D
+- This has been developed with iOS in mind. If you use Android and encounter any issues, you can DM me (Sky.Bit) on Discord @sky.bit, and I will attempt to fix it.
+- 🗿
