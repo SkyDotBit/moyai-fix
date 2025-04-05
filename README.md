@@ -8,3 +8,4 @@
 - Sky.Bit, Pineapple - Fix developers
 ## Notes
 - iOS does not support .ogg or .webm files.
+- This is not finished yet!! Please do not install until all bugs are removed and all features are added! Ty! :D
