@@ -1,6 +1,8 @@
 # 🗿
 ## Changes
-- We added a few small changes, like the ability to use custom sounds and custom emojis.
+- Custom emoji support (Does not support Nitro emojis/FreeNitro emojis)
+- Custom sound support
+- Ignore silent mode option
 ## Credit
 - Cynosphere - Original developer
 - Sky.Bit, Pineapple - Fix developers
