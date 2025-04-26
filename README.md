@@ -1,6 +1,6 @@
 # 🗿
 ## Install
-### [Install ⬇️](https://skydotbit.github.io/moyai-fix/)
+### [Install ⬇️](https://moyai-fix.skydevs.me)
 ## About
 This Bunny plugin lets you play custom sounds when an emoji is sent (moyai is the default). Because it's a Bunny plugin, it will work with all Bunny forks like Revenge.
 ## Changes
